@@ -1,0 +1,202 @@
+{"kind":"deck","id":"pr/q30irz","name":"Deck"}
+{"kind":"layout","layoutId":"015e4bf4-8c16-4db3-bcb7-086d68843b1d","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"322e7579-1eb1-44bc-893c-63a9c3bf9e85","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/529s3z","slide":1,"title":"功能演示文档","textShapes":11}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":1,"text":"功能演示文档","textPreview":"功能演示文档","textChars":6,"textLines":1,"bbox":[56,52,320,32]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":1,"text":"HR 招聘数据\n自动录入助手","textPreview":"HR 招聘数据 | 自动录入助手","textChars":14,"textLines":2,"bbox":[56,154,590,170]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":1,"text":"围绕企业微信、企业微信群、腾讯在线文档，演示“消息进入 -> AI抽取 -> 缺失核验 -> HR确认 -> 自动入库 -> 看板同步”的完整闭环。","textPreview":"围绕企业微信、企业微信群、腾讯在线文档，演示“消息进入 -> AI抽取 -> 缺失核验 -> HR确认 -> 自动入库 -> 看板同步”的完整闭环。","textChars":74,"textLines":1,"bbox":[58,342,610,86]}
+{"kind":"shape","id":"sh/58z25kb6","slide":1,"bbox":[58,510,170,112]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":1,"text":"89%","textPreview":"89%","textChars":3,"textLines":1,"bbox":[76,526,132,42]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":1,"text":"预计减少人工录入","textPreview":"预计减少人工录入","textChars":8,"textLines":1,"bbox":[76,574,132,34]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":1,"bbox":[246,510,170,112]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":1,"text":"22h","textPreview":"22h","textChars":3,"textLines":1,"bbox":[264,526,132,42]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":1,"text":"每周节省时间","textPreview":"每周节省时间","textChars":6,"textLines":1,"bbox":[264,574,132,34]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":1,"bbox":[434,510,170,112]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":1,"text":"22条","textPreview":"22条","textChars":3,"textLines":1,"bbox":[452,526,132,42]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":1,"text":"候选人样例","textPreview":"候选人样例","textChars":5,"textLines":1,"bbox":[452,574,132,34]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":1,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"image","id":"im/qd4vmtwr","slide":1,"name":"","geometry":"roundRect","alt":"01-dashboard.png","bbox":[710,88,510,500]}
+{"kind":"notes","id":"nt/529s3z","slide":1,"text":""}
+{"kind":"slide","id":"sl/dwbsag","slide":2,"title":"01 / 主流程","textShapes":23}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":2,"text":"01 / 主流程","textPreview":"01 / 主流程","textChars":8,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":2,"text":"3 秒理解系统在做什么","textPreview":"3 秒理解系统在做什么","textChars":11,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/61032lsz","slide":2,"text":"这不是表单录入器，而是一条持续运行的数据自动化链路。","textPreview":"这不是表单录入器，而是一条持续运行的数据自动化链路。","textChars":26,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":2,"bbox":[56,278,176,96]}
+{"kind":"shape","id":"sh/oj2t83it","slide":2,"bbox":[76,302,36,36]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[76,307,36,24]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":2,"text":"消息进入","textPreview":"消息进入","textChars":4,"textLines":1,"bbox":[124,306,86,28]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":2,"bbox":[256,278,176,96]}
+{"kind":"shape","id":"sh/onyd0z61","slide":2,"bbox":[276,302,36,36]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[276,307,36,24]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":2,"text":"AI抽取","textPreview":"AI抽取","textChars":4,"textLines":1,"bbox":[324,306,86,28]}
+{"kind":"shape","id":"sh/wval87ed","slide":2,"bbox":[456,278,176,96]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":2,"bbox":[476,302,36,36]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[476,307,36,24]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":2,"text":"缺失核验","textPreview":"缺失核验","textChars":4,"textLines":1,"bbox":[524,306,86,28]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":2,"bbox":[656,278,176,96]}
+{"kind":"shape","id":"sh/psfil0rq","slide":2,"bbox":[676,302,36,36]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[676,307,36,24]}
+{"kind":"textbox","id":"sh/7u54zido","slide":2,"text":"HR确认","textPreview":"HR确认","textChars":4,"textLines":1,"bbox":[724,306,86,28]}
+{"kind":"shape","id":"sh/vy90je9c","slide":2,"bbox":[856,278,176,96]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":2,"bbox":[876,302,36,36]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":2,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[876,307,36,24]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":2,"text":"自动入库","textPreview":"自动入库","textChars":4,"textLines":1,"bbox":[924,306,86,28]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":2,"bbox":[1056,278,176,96]}
+{"kind":"shape","id":"sh/61032lsz","slide":2,"bbox":[1076,302,36,36]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":2,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1076,307,36,24]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":2,"text":"看板同步","textPreview":"看板同步","textChars":4,"textLines":1,"bbox":[1124,306,86,28]}
+{"kind":"shape","id":"sh/vahoza1g","slide":2,"bbox":[56,430,350,116]}
+{"kind":"shape","id":"sh/6tovahoz","slide":2,"bbox":[56,430,7,116]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":2,"text":"替代重复录入","textPreview":"替代重复录入","textChars":6,"textLines":1,"bbox":[82,448,294,30]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":2,"text":"候选人信息从消息和表格直接进入工作台。","textPreview":"候选人信息从消息和表格直接进入工作台。","textChars":19,"textLines":1,"bbox":[82,484,294,44]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":2,"bbox":[466,430,350,116]}
+{"kind":"shape","id":"sh/r65wjudg","slide":2,"bbox":[466,430,7,116]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":2,"text":"降低遗漏风险","textPreview":"降低遗漏风险","textChars":6,"textLines":1,"bbox":[492,448,294,30]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":2,"text":"缺失字段自动打标，低置信度进入待核验池。","textPreview":"缺失字段自动打标，低置信度进入待核验池。","textChars":20,"textLines":1,"bbox":[492,484,294,44]}
+{"kind":"shape","id":"sh/yxobm58z","slide":2,"bbox":[876,430,350,116]}
+{"kind":"shape","id":"sh/nih4byhg","slide":2,"bbox":[876,430,7,116]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":2,"text":"实时同步看板","textPreview":"实时同步看板","textChars":6,"textLines":1,"bbox":[902,448,294,30]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":2,"text":"入库后候选人库、漏斗和统计指标同步刷新。","textPreview":"入库后候选人库、漏斗和统计指标同步刷新。","textChars":20,"textLines":1,"bbox":[902,484,294,44]}
+{"kind":"textbox","id":"sh/1032lszq","slide":2,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"notes","id":"nt/dwbsag","slide":2,"text":""}
+{"kind":"slide","id":"sl/yocmwo","slide":3,"title":"02 / 招聘驾驶舱","textShapes":11}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":"02 / 招聘驾驶舱","textPreview":"02 / 招聘驾驶舱","textChars":10,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":3,"text":"管理层打开即看结果","textPreview":"管理层打开即看结果","textChars":9,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":3,"text":"核心指标聚焦：今天新增、待确认、待补充、已入库、今日同步、录入提效。","textPreview":"核心指标聚焦：今天新增、待确认、待补充、已入库、今日同步、录入提效。","textChars":34,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/ovahoza1","slide":3,"bbox":[56,180,326,116]}
+{"kind":"shape","id":"sh/vahoza1g","slide":3,"bbox":[56,180,7,116]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":3,"text":"ROI 直观可见","textPreview":"ROI 直观可见","textChars":8,"textLines":1,"bbox":[82,198,270,30]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":3,"text":"人工 3 分钟/人，AI 20 秒/人，日均 50 人时约节省 133 分钟/天。","textPreview":"人工 3 分钟/人，AI 20 秒/人，日均 50 人时约节省 133 分钟/天。","textChars":41,"textLines":1,"bbox":[82,234,270,44]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":3,"bbox":[56,320,326,116]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":3,"bbox":[56,320,7,116]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":3,"text":"事件流持续工作","textPreview":"事件流持续工作","textChars":7,"textLines":1,"bbox":[82,338,270,30]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":3,"text":"右侧日志展示采集、抽取、核验、入库、同步的实时动作。","textPreview":"右侧日志展示采集、抽取、核验、入库、同步的实时动作。","textChars":26,"textLines":1,"bbox":[82,374,270,44]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":3,"bbox":[56,460,326,116]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":3,"bbox":[56,460,7,116]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":3,"text":"风险优先处理","textPreview":"风险优先处理","textChars":6,"textLines":1,"bbox":[82,478,270,30]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":3,"text":"待确认、待补充、待核验不会被混入正常入库数据。","textPreview":"待确认、待补充、待核验不会被混入正常入库数据。","textChars":23,"textLines":1,"bbox":[82,514,270,44]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":3,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/ulwval87","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"image","id":"im/83itgfml","slide":3,"name":"","geometry":"roundRect","alt":"01-dashboard.png","bbox":[56,172,760,440]}
+{"kind":"notes","id":"nt/yocmwo","slide":3,"text":""}
+{"kind":"slide","id":"sl/7q4qxo","slide":4,"title":"03 / 自动采集","textShapes":11}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":4,"text":"03 / 自动采集","textPreview":"03 / 自动采集","textChars":9,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":4,"text":"从企业微信和腾讯文档进入系统","textPreview":"从企业微信和腾讯文档进入系统","textChars":14,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":4,"text":"支持群聊、私聊、腾讯文档表格文本与面试反馈模板，减少人工复制粘贴。","textPreview":"支持群聊、私聊、腾讯文档表格文本与面试反馈模板，减少人工复制粘贴。","textChars":33,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":4,"bbox":[56,178,326,116]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":4,"bbox":[56,178,7,116]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":4,"text":"企业微信消息气泡","textPreview":"企业微信消息气泡","textChars":8,"textLines":1,"bbox":[82,196,270,30]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":4,"text":"模拟推荐人、HR、部门负责人的真实聊天上下文。","textPreview":"模拟推荐人、HR、部门负责人的真实聊天上下文。","textChars":23,"textLines":1,"bbox":[82,232,270,44]}
+{"kind":"shape","id":"sh/gvy90je9","slide":4,"bbox":[56,318,326,116]}
+{"kind":"shape","id":"sh/yd0z6103","slide":4,"bbox":[56,318,7,116]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":4,"text":"腾讯文档导入样式","textPreview":"腾讯文档导入样式","textChars":8,"textLines":1,"bbox":[82,336,270,30]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":4,"text":"表格文本可按行解析，适合批量同步候选人。","textPreview":"表格文本可按行解析，适合批量同步候选人。","textChars":20,"textLines":1,"bbox":[82,372,270,44]}
+{"kind":"shape","id":"sh/90je9cvi","slide":4,"bbox":[56,458,326,116]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":4,"bbox":[56,458,7,116]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":4,"text":"Webhook 可替换","textPreview":"Webhook 可替换","textChars":11,"textLines":1,"bbox":[82,476,270,30]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":4,"text":"PoC 用按钮模拟，正式版可平滑升级企业微信回调。","textPreview":"PoC 用按钮模拟，正式版可平滑升级企业微信回调。","textChars":25,"textLines":1,"bbox":[82,512,270,44]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":4,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"image","id":"im/kre1w7mp","slide":4,"name":"","geometry":"roundRect","alt":"02-workflow-input.png","bbox":[444,158,776,460]}
+{"kind":"notes","id":"nt/7q4qxo","slide":4,"text":""}
+{"kind":"slide","id":"sl/ok86gz","slide":5,"title":"04 / 抽取与核验","textShapes":11}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":5,"text":"04 / 抽取与核验","textPreview":"04 / 抽取与核验","textChars":10,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":5,"text":"字段高亮、来源引用、缺失提醒","textPreview":"字段高亮、来源引用、缺失提醒","textChars":14,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":5,"text":"AI 输出不是黑箱：每个字段都保留来源句子，方便 HR 快速复核。","textPreview":"AI 输出不是黑箱：每个字段都保留来源句子，方便 HR 快速复核。","textChars":33,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/p4r65wju","slide":5,"bbox":[56,184,326,116]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":5,"bbox":[56,184,7,116]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":5,"text":"字段完整度","textPreview":"字段完整度","textChars":5,"textLines":1,"bbox":[82,202,270,30]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":5,"text":"完整度进度条展示是否具备入库条件。","textPreview":"完整度进度条展示是否具备入库条件。","textChars":17,"textLines":1,"bbox":[82,238,270,44]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":5,"bbox":[56,324,326,116]}
+{"kind":"shape","id":"sh/xobm58z2","slide":5,"bbox":[56,324,7,116]}
+{"kind":"textbox","id":"sh/83itgfml","slide":5,"text":"Bad Case 机制","textPreview":"Bad Case 机制","textChars":11,"textLines":1,"bbox":[82,342,270,30]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":5,"text":"低于 80% 进入待核验池，不能直接入库。","textPreview":"低于 80% 进入待核验池，不能直接入库。","textChars":21,"textLines":1,"bbox":[82,378,270,44]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":5,"bbox":[56,464,326,116]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":5,"bbox":[56,464,7,116]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":5,"text":"批量确认入库","textPreview":"批量确认入库","textChars":6,"textLines":1,"bbox":[82,482,270,30]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":5,"text":"HR 勾选多名候选人后统一确认写入。","textPreview":"HR 勾选多名候选人后统一确认写入。","textChars":18,"textLines":1,"bbox":[82,518,270,44]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":5,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"image","id":"im/tcj6tova","slide":5,"name":"","geometry":"roundRect","alt":"03-extract-verify.png","bbox":[56,162,804,462]}
+{"kind":"notes","id":"nt/ok86gz","slide":5,"text":""}
+{"kind":"slide","id":"sl/x26m0u","slide":6,"title":"05 / 候选人中心","textShapes":11}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":6,"text":"05 / 候选人中心","textPreview":"05 / 候选人中心","textChars":10,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/d0z61032","slide":6,"text":"详情页用于复核，不展示复杂代码","textPreview":"详情页用于复核，不展示复杂代码","textChars":15,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":6,"text":"左侧看基础信息和完整度，右侧看字段审计链与同步状态，底部保留原始记录和 JSON。","textPreview":"左侧看基础信息和完整度，右侧看字段审计链与同步状态，底部保留原始记录和 JSON。","textChars":41,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":6,"bbox":[56,184,326,116]}
+{"kind":"shape","id":"sh/d8bat47y","slide":6,"bbox":[56,184,7,116]}
+{"kind":"textbox","id":"sh/knih4byh","slide":6,"text":"字段审计链","textPreview":"字段审计链","textChars":5,"textLines":1,"bbox":[82,202,270,30]}
+{"kind":"textbox","id":"sh/val87ed8","slide":6,"text":"字段名、字段值、来源渠道、定位行号、原文引用完整保留。","textPreview":"字段名、字段值、来源渠道、定位行号、原文引用完整保留。","textChars":27,"textLines":1,"bbox":[82,238,270,44]}
+{"kind":"shape","id":"sh/6psfil0r","slide":6,"bbox":[56,324,326,116]}
+{"kind":"shape","id":"sh/4r65wjud","slide":6,"bbox":[56,324,7,116]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":6,"text":"同步摘要","textPreview":"同步摘要","textChars":4,"textLines":1,"bbox":[82,342,270,30]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":6,"text":"展示入库策略、当前阶段、最近更新时间。","textPreview":"展示入库策略、当前阶段、最近更新时间。","textChars":19,"textLines":1,"bbox":[82,378,270,44]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":6,"bbox":[56,464,326,116]}
+{"kind":"shape","id":"sh/4zidonyd","slide":6,"bbox":[56,464,7,116]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":6,"text":"HR 确认记录","textPreview":"HR 确认记录","textChars":7,"textLines":1,"bbox":[82,482,270,30]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":6,"text":"保留人在回路确认，降低误同步风险。","textPreview":"保留人在回路确认，降低误同步风险。","textChars":17,"textLines":1,"bbox":[82,518,270,44]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":6,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/83itgfml","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"image","id":"im/qd4vmtwr","slide":6,"name":"","geometry":"roundRect","alt":"04-candidate-detail.png","bbox":[424,156,796,466]}
+{"kind":"notes","id":"nt/x26m0u","slide":6,"text":""}
+{"kind":"slide","id":"sl/15m8rb","slide":7,"title":"06 / RAG 知识库","textShapes":11}
+{"kind":"textbox","id":"sh/7adsji5s","slide":7,"text":"06 / RAG 知识库","textPreview":"06 / RAG 知识库","textChars":12,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/wval87ed","slide":7,"text":"JD 点击切换后解释同步变化","textPreview":"JD 点击切换后解释同步变化","textChars":14,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":7,"text":"点击岗位 JD，Agent 可解释回答会同步更新使用的 JD 规则、风险原因和历史案例。","textPreview":"点击岗位 JD，Agent 可解释回答会同步更新使用的 JD 规则、风险原因和历史案例。","textChars":44,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":7,"bbox":[56,184,326,116]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":7,"bbox":[56,184,7,116]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":7,"text":"岗位 JD 库","textPreview":"岗位 JD 库","textChars":7,"textLines":1,"bbox":[82,202,270,30]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":7,"text":"覆盖技术、产品、数据、市场、销售、HR 等岗位示例。","textPreview":"覆盖技术、产品、数据、市场、销售、HR 等岗位示例。","textChars":26,"textLines":1,"bbox":[82,238,270,44]}
+{"kind":"shape","id":"sh/7u54zido","slide":7,"bbox":[56,324,326,116]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":7,"bbox":[56,324,7,116]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":7,"text":"历史案例引用","textPreview":"历史案例引用","textChars":6,"textLines":1,"bbox":[82,342,270,30]}
+{"kind":"textbox","id":"sh/lwval87e","slide":7,"text":"录用/淘汰案例用于解释为什么推进或暂缓。","textPreview":"录用/淘汰案例用于解释为什么推进或暂缓。","textChars":20,"textLines":1,"bbox":[82,378,270,44]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":7,"bbox":[56,464,326,116]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":7,"bbox":[56,464,7,116]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":7,"text":"可解释而非拍脑袋","textPreview":"可解释而非拍脑袋","textChars":8,"textLines":1,"bbox":[82,482,270,30]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":7,"text":"评分说明包含规则、缺失项、风险和推荐理由。","textPreview":"评分说明包含规则、缺失项、风险和推荐理由。","textChars":21,"textLines":1,"bbox":[82,518,270,44]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":7,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"image","id":"im/7u54zido","slide":7,"name":"","geometry":"roundRect","alt":"05-rag-jd-switch.png","bbox":[56,158,814,468]}
+{"kind":"notes","id":"nt/15m8rb","slide":7,"text":""}
+{"kind":"slide","id":"sl/l9f9wd","slide":8,"title":"07 / 现场演示脚本","textShapes":15}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":8,"text":"07 / 现场演示脚本","textPreview":"07 / 现场演示脚本","textChars":11,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":8,"text":"15-20 秒跑完一条自动化链路","textPreview":"15-20 秒跑完一条自动化链路","textChars":16,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":8,"text":"点击顶部“一键演示”，系统会自动播放从微信群推荐到看板刷新的全流程。","textPreview":"点击顶部“一键演示”，系统会自动播放从微信群推荐到看板刷新的全流程。","textChars":34,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/p4r65wju","slide":8,"bbox":[74,176,36,36]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[74,182,36,24]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":8,"text":"收到企业微信群推荐消息","textPreview":"收到企业微信群推荐消息","textChars":11,"textLines":1,"bbox":[128,178,360,34]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":8,"bbox":[74,252,36,36]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[74,258,36,24]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":8,"text":"AI 抽取候选人字段","textPreview":"AI 抽取候选人字段","textChars":10,"textLines":1,"bbox":[128,254,360,34]}
+{"kind":"shape","id":"sh/83itgfml","slide":8,"bbox":[74,328,36,36]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[74,334,36,24]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":8,"text":"发现联系方式缺失","textPreview":"发现联系方式缺失","textChars":8,"textLines":1,"bbox":[128,330,360,34]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":8,"bbox":[74,404,36,36]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":8,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[74,410,36,24]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":8,"text":"生成回访草稿，等待 HR 确认","textPreview":"生成回访草稿，等待 HR 确认","textChars":15,"textLines":1,"bbox":[128,406,360,34]}
+{"kind":"shape","id":"sh/m94fu18j","slide":8,"bbox":[74,480,36,36]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":8,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[74,486,36,24]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":8,"text":"写入候选人库并刷新驾驶舱","textPreview":"写入候选人库并刷新驾驶舱","textChars":12,"textLines":1,"bbox":[128,482,360,34]}
+{"kind":"textbox","id":"sh/032lszqt","slide":8,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/tovahoza","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"image","id":"im/p8nqxs72","slide":8,"name":"","geometry":"roundRect","alt":"06-one-click-demo.png","bbox":[560,150,660,430]}
+{"kind":"notes","id":"nt/l9f9wd","slide":8,"text":""}
+{"kind":"slide","id":"sl/kumg34","slide":9,"title":"08 / 交付物","textShapes":12}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":9,"text":"08 / 交付物","textPreview":"08 / 交付物","textChars":8,"textLines":1,"bbox":[56,36,360,28]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":9,"text":"评审查看和复现方式","textPreview":"评审查看和复现方式","textChars":9,"textLines":1,"bbox":[56,72,850,54]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":9,"text":"最终交付保持低成本 PoC 边界，前端 React，数据库/向量库/消息接入均可平滑升级。","textPreview":"最终交付保持低成本 PoC 边界，前端 React，数据库/向量库/消息接入均可平滑升级。","textChars":45,"textLines":1,"bbox":[56,126,900,34]}
+{"kind":"shape","id":"sh/m58z25kb","slide":9,"bbox":[56,178,538,320]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":9,"text":"直接打开预览","textPreview":"直接打开预览","textChars":6,"textLines":1,"bbox":[90,212,420,38]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":9,"text":"recruitment-ai-agent-demo-preview.html\ndemo-preview.html","textPreview":"recruitment-ai-agent-demo-preview.html | demo-preview.html","textChars":56,"textLines":2,"bbox":[90,274,450,74]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":9,"text":"代码入口","textPreview":"代码入口","textChars":4,"textLines":1,"bbox":[90,392,420,34]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":9,"text":"src/main.jsx\nsrc/styles.css\nREADME.md","textPreview":"src/main.jsx | src/styles.css | README.md","textChars":37,"textLines":3,"bbox":[90,438,450,82]}
+{"kind":"shape","id":"sh/bm58z25k","slide":9,"bbox":[650,178,526,320]}
+{"kind":"textbox","id":"sh/val87ed8","slide":9,"text":"可落地升级路径","textPreview":"可落地升级路径","textChars":7,"textLines":1,"bbox":[684,212,420,38]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":9,"text":"Webhook 模拟 -> 企业微信 API\nlocalStorage -> SQLite / ATS\n内置案例 -> Chroma RAG\n规则抽取 -> OpenAI 兼容接口 + JSON Schema","textPreview":"Webhook 模拟 -> 企业微信 API | localStorage -> SQLite / ATS | 内置案例 -> Chroma RAG | 规则抽取 -> OpenAI 兼容接口 + JSON Schema","textChars":104,"textLines":4,"bbox":[684,276,430,160]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":9,"text":"核心目标：减少 HR 重复录入、减少数据遗漏、实时同步招聘数据。","textPreview":"核心目标：减少 HR 重复录入、减少数据遗漏、实时同步招聘数据。","textChars":32,"textLines":1,"bbox":[684,468,438,60]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":9,"text":"HR 招聘数据自动录入助手 Demo","textPreview":"HR 招聘数据自动录入助手 Demo","textChars":18,"textLines":1,"bbox":[56,672,360,22]}
+{"kind":"textbox","id":"sh/vixczed8","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1180,672,44,22]}
+{"kind":"notes","id":"nt/kumg34","slide":9,"text":""}
